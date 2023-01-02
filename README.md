@@ -9,6 +9,8 @@ This is what will you get in this code...
 
 Image Hover Expand Horizontal, features:
 
+[ImageHover-ExpandHorizontal.webm](https://user-images.githubusercontent.com/106858846/210242314-7ba25543-6812-40c1-acc7-7da7a6f4605b.webm)
+
 - Horizontally expand image when mouse hover
 - No limit of how many images can be added, recommendation: 3-4 images (desktop), 1-2 images (mobile)
 - Auto shrinking images according to the number of images
